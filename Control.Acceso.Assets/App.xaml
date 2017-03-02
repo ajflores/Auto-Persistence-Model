@@ -1,0 +1,9 @@
+﻿<Application x:Class="Control.Acceso.Assets.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Control.Acceso.Assets"
+             StartupUri="Ventana/Inicio.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
